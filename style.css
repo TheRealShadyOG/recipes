@@ -6,16 +6,40 @@ body {
 
 h1 {
     font-size: 75px;
+}
+
+h2 {
+    font-size: 35px;
+}
+
+h1, h2 {
     font-family: "Courier New", "Times New Roman", sans-serif;
+}
+
+em, strong{
+    color: black;
 }
 
 .link {
     list-style: none;
     font-size: 30px;
-    font-family: Georgia, "Times New Roman", sans-serif;
+}
+
+.content {
+    font-size: 15px;
+    display: inline-block;
+}
+
+img {
+    height: 500px;
+    width: 500px;
 }
 
 .index-img {
     height: 200px;
     width: 200px;
+}
+
+.content, .link {
+    font-family: Georgia, "Times New Roman", sans-serif;
 }
