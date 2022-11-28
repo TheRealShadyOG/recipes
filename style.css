@@ -1,0 +1,21 @@
+body {
+    background-color: gray;
+    text-align: center;
+    color: white;
+} 
+
+h1 {
+    font-size: 75px;
+    font-family: "Courier New", "Times New Roman", sans-serif;
+}
+
+.link {
+    list-style: none;
+    font-size: 30px;
+    font-family: Georgia, "Times New Roman", sans-serif;
+}
+
+.index-img {
+    height: 200px;
+    width: 200px;
+}
